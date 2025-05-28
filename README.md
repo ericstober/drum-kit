@@ -49,7 +49,3 @@ drum-kit/
 ├── styles.css      # CSS styling
 └── index.js        # JavaScript functionality
 ```
-
-## License
-
-This project is open-source and available under the MIT License.
